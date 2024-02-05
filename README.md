@@ -27,7 +27,7 @@ Principes fondamentaux de l'ingénierie des données :
 - Apache Airflow : Orchestration de workflows de traitement de données.
 - Luigi : Cadre pour la construction de pipelines de données.
 
-## Monitoring et gestion des erreurs :
+## Monitoring et gestion des erreurs
 - Logging : Enregistrement des événements et des erreurs.
 - Monitoring : Suivi des performances des systèmes de données.
 
